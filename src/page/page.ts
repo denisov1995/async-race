@@ -123,8 +123,8 @@ const getPageWinners = async (result: IWinners) => {
   <button class="btn prev" id="prev-winner">PREV</button>
   <button class="btn next" id="next-winner">NEXT</button>`;
   root.innerHTML = html;
-  const divv = <HTMLElement>document.querySelector('div');
-  divv.appendChild(root);
+  const div = <HTMLElement>document.querySelector('.root');
+  div.appendChild(root);
 };
 
 function checkBtnPageControlsWinner() {
@@ -165,6 +165,7 @@ export const render = async (cars: Array<{ name: string; id: string; color: stri
       ${getGarageGame(cars, count)}
     </div>`;
   const root = document.createElement('div');
+  root.classList.add('root');
   root.innerHTML = html;
   document.body.appendChild(root);
   getPageWinners(winner);
