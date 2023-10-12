@@ -1,0 +1,28 @@
+<svg class="flag-svg" right="100px" width="35px" height="35px" viewBox="0 0 256 256" enable-background="new 0 0 256 256">
+<switch>
+   <foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+     <i:pgfRef xlink:href="#adobe_illustrator_pgf"></i:pgfRef>
+   </foreignObject>
+<g i:extraneous="self">
+<g>
+<g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="33.9004" y1="-1.5469" x2="33.9004" y2="259.0207">
+<stop offset="0" style="stop-color:#E3E3E3"/>
+<stop offset="1" style="stop-color:#E2E2E2"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M40.33,250.775c0,2.874-2.351,5.225-5.225,5.225h-2.41c-2.874,0-5.225-2.351-5.225-5.225V5.224      C27.471,2.351,29.821,0,32.695,0h2.41c2.874,0,5.225,2.351,5.225,5.224V250.775z"/>
+<g opacity="0.2">
+<path fill="#D8D8D8" d="M35.105,250.726h-2.41c-2.874,0-5.225-2.35-5.225-5.224v5.273c0,2.874,2.351,5.225,5.225,5.225h2.41       c2.874,0,5.225-2.351,5.225-5.225v-5.273C40.33,248.376,37.979,250.726,35.105,250.726z"/>
+</g>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="135.5977" y1="9.0024" x2="135.5977" y2="135.666">
+<stop offset="0" style="stop-color:#F15454"/>
+<stop offset="1" style="stop-color:#D93B3B"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M216.845,4.677H43.836c-0.396,0-0.783,0.021-1.171,0.058v127.296      c0.388,0.041,0.775,0.06,1.171,0.06h173.009c6.424,0,11.685-5.26,11.685-11.689V16.365      C228.529,9.937,223.269,4.677,216.845,4.677z"/>
+<g opacity="0.2">
+<path fill="#2C2C2C" d="M216.845,126.817H43.836c-0.396,0-0.783-0.019-1.171-0.06v5.274c0.388,0.041,0.775,0.06,1.171,0.06       h173.009c6.424,0,11.685-5.26,11.685-11.689v-5.274C228.529,121.557,223.269,126.817,216.845,126.817z"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
